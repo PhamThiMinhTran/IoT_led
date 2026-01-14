@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079107128524",
+    "project_id": "app-iot-77dd8",
+    "storage_bucket": "app-iot-77dd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079107128524:android:b3988034e0ec8f7751c669",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJHMbRiKtnft4E1D6s8W_Bi3wJB4R_tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
